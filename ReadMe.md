@@ -1,3 +1,2 @@
 #Demo
-
-some description!
+This is a clothing brand thats made accesible globally
